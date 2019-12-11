@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.film-container {
+    width: 200px;
+    display: inline-block;
+}
+
+.film-iamge {
+    height: 200px;
+    width: 150;
+}
+
+i:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+.red-arrow:hover {
+    color: red;
+    cursor: auto;
+}
